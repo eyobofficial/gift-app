@@ -1,0 +1,13 @@
+# Virtual Enviroments
+.env
+.venv
+env
+venv
+myvenv
+
+# Cache Files
+__pycache__
+*.pyc
+
+# Media Assets
+# media/*
